@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Violina</h1>
 <h3 align="center">NITK '25 Btech CSE</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=violinadoley&label=Profile%20views&color=0e75b6&style=flat" alt="violinadoley" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=violinadoley" alt="violinadoley" /></a> </p>
-
 - 📫 How to reach me **violinadoley24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,20 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=violinadoley&show_icons=true&locale=en&layout=compact" alt="violinadoley" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=violinadoley&show_icons=true&locale=en" alt="violinadoley" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=violinadoley&" alt="violinadoley" /></p>
-
-<!--
-**violinadoley/violinadoley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
