@@ -13,3 +13,9 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
+
+<br>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=violinadoley&show_icons=true&locale=en&layout=compact" />
+</p>
